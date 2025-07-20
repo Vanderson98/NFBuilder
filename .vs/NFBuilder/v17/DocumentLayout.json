@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repositorios\\NFBuilder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{214EF778-EA53-45C0-BC0D-20C0EA0404AC}|NFBuilder.csproj|d:\\repositorios\\nfbuilder\\controllers\\nfcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214EF778-EA53-45C0-BC0D-20C0EA0404AC}|NFBuilder.csproj|solutionrelative:controllers\\nfcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214EF778-EA53-45C0-BC0D-20C0EA0404AC}|NFBuilder.csproj|d:\\repositorios\\nfbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214EF778-EA53-45C0-BC0D-20C0EA0404AC}|NFBuilder.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214EF778-EA53-45C0-BC0D-20C0EA0404AC}|NFBuilder.csproj|d:\\repositorios\\nfbuilder\\entities\\jsonnf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214EF778-EA53-45C0-BC0D-20C0EA0404AC}|NFBuilder.csproj|solutionrelative:entities\\jsonnf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214EF778-EA53-45C0-BC0D-20C0EA0404AC}|NFBuilder.csproj|d:\\repositorios\\nfbuilder\\entities\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214EF778-EA53-45C0-BC0D-20C0EA0404AC}|NFBuilder.csproj|solutionrelative:entities\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214EF778-EA53-45C0-BC0D-20C0EA0404AC}|NFBuilder.csproj|d:\\repositorios\\nfbuilder\\controllers\\transformtopdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214EF778-EA53-45C0-BC0D-20C0EA0404AC}|NFBuilder.csproj|solutionrelative:controllers\\transformtopdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214EF778-EA53-45C0-BC0D-20C0EA0404AC}|NFBuilder.csproj|d:\\repositorios\\nfbuilder\\controllers\\bars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214EF778-EA53-45C0-BC0D-20C0EA0404AC}|NFBuilder.csproj|solutionrelative:controllers\\bars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "jsonNF.cs",
+              "DocumentMoniker": "D:\\Repositorios\\NFBuilder\\Entities\\jsonNF.cs",
+              "RelativeDocumentMoniker": "Entities\\jsonNF.cs",
+              "ToolTip": "D:\\Repositorios\\NFBuilder\\Entities\\jsonNF.cs",
+              "RelativeToolTip": "Entities\\jsonNF.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T20:16:31.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Items.cs",
+              "DocumentMoniker": "D:\\Repositorios\\NFBuilder\\Entities\\Items.cs",
+              "RelativeDocumentMoniker": "Entities\\Items.cs",
+              "ToolTip": "D:\\Repositorios\\NFBuilder\\Entities\\Items.cs",
+              "RelativeToolTip": "Entities\\Items.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T20:16:28.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransformToPDF.cs",
+              "DocumentMoniker": "D:\\Repositorios\\NFBuilder\\Controllers\\TransformToPDF.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransformToPDF.cs",
+              "ToolTip": "D:\\Repositorios\\NFBuilder\\Controllers\\TransformToPDF.cs",
+              "RelativeToolTip": "Controllers\\TransformToPDF.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T20:16:20.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NFCreate.cs",
+              "DocumentMoniker": "D:\\Repositorios\\NFBuilder\\Controllers\\NFCreate.cs",
+              "RelativeDocumentMoniker": "Controllers\\NFCreate.cs",
+              "ToolTip": "D:\\Repositorios\\NFBuilder\\Controllers\\NFCreate.cs",
+              "RelativeToolTip": "Controllers\\NFCreate.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAawEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T20:16:14.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bars.cs",
+              "DocumentMoniker": "D:\\Repositorios\\NFBuilder\\Controllers\\Bars.cs",
+              "RelativeDocumentMoniker": "Controllers\\Bars.cs",
+              "ToolTip": "D:\\Repositorios\\NFBuilder\\Controllers\\Bars.cs",
+              "RelativeToolTip": "Controllers\\Bars.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T20:16:10.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repositorios\\NFBuilder\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Repositorios\\NFBuilder\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T20:15:52.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
