@@ -1,5 +1,5 @@
 
-# 🧾 NFBUilder - Gerador de Nota Fiscal (C# Console App)
+# 🧾 NFBuilder - Gerador de Nota Fiscal (C# Console App)
 
 Este projeto é uma aplicação de terminal desenvolvida em **C#** com o objetivo de gerar **notas fiscais personalizadas** de forma simples e prática. Ele foi criado como exercício para reforçar conceitos de **lógica de programação**, **manipulação de dados** e **estruturação de arquivos**.
 
